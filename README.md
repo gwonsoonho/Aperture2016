@@ -6,7 +6,6 @@
 
 ##교육자료
 ***
-
 >for 문 : https://github.com/MaseKor/Aperture2016/blob/master/교육자료/for문.py
 >
 >if 문 : https://github.com/MaseKor/Aperture2016/blob/master/교육자료/if문.py
@@ -16,6 +15,5 @@
 >숫자열 : https://github.com/MaseKor/Aperture2016/blob/master/교육자료/숫자열.py
 >
 >이중루프문 : https://github.com/MaseKor/Aperture2016/blob/master/교육자료/이중루프문.py
-
 ***
 
