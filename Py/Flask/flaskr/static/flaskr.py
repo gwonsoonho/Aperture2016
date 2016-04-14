@@ -3,7 +3,7 @@
 #  all the imports
 import sqlite3
 from flask import Flask, request, session, g, redirect, url_for, abort, render_template, flash
-from __future__ import with_statement
+import MYSQLdb
 from contextlib import closing
 
 # configuration
