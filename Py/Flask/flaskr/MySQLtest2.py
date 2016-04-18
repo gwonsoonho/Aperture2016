@@ -5,6 +5,7 @@ import MySQLdb as mdb
 
 con = mdb.connect('localhost', 'testuser', 'test623', 'testdb')
 
+
 with con:
 
     cur = con.cursor()
@@ -13,4 +14,3 @@ with con:
     cur.execute("INSERT INTO Writers(Name) VALUES('김민성')")
     cur.execute("INSERT INTO Writers(Name) VALUES('최명원')")
     cur.execute("INSERT INTO Writers(Name) VALUES('송혜민')")
-
