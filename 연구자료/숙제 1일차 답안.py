@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-
+#숙제 1일차 답안.py
 a = 10
 print "숫자 맞추기 게임입니다."
 while True:
