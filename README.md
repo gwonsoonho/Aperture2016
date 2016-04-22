@@ -1,8 +1,8 @@
 # Aperture2016
 
-![APERTURE](http://cdn.shopify.com/s/files/1/0080/8372/products/tattly_jason_santa_maria_aperture_web_design_01_grande.jpg?v=1444337564)
+![APERTURE](http://cdn.shopify.com/s/files/1/0080/8372/products/tattly_jason_santa_maria_aperture_web_design_01_grande.jpg?v=1444337564 =100x100)
 
-**Website** : [APERTURE IN DIMIGO](www.aperturecs.com)
+**Website** : [APERTURE IN DIMIGO](http://aperturecs.com)
 
 **동아리장** : 송혜민
 
