@@ -11,11 +11,11 @@
 **파이썬 자료 업로드** : 김민성
 
 ##Python study file list
-* 1일차 : [간단한 출력문, 숫자형, 리스트](https://github.com/MaseKor/Aperture2016/blob/master/교육자료/1일차.md)
-* 2일차 : [튜플](https://github.com/MaseKor/Aperture2016/blob/master/교육자료/2일차.md)
-* 3일차 : [함수](https://github.com/MaseKor/Aperture2016/blob/master/교육자료/3일차.md)
+* 1일차 : [간단한 출력문, 숫자형, 리스트](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/1일차.md)
+* 2일차 : [튜플](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/2일차.md)
+* 3일차 : [함수](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/3일차.md)
 
 ##Python Assignment Answer file
 
-*	First : [숫자맞추기게임](https://github.com/MaseKor/Aperture2016/blob/master/과제답안/숙제%201일차%20답안.py)
+*	First : [숫자맞추기게임](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Assignment%20Answer/숙제%201일차%20답안.py)
 * 	Second : [사칙연산 계산기]
