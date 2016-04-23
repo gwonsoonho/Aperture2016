@@ -17,4 +17,5 @@
 
 ##Python Assignment Answer file
 
-*	First :
+*	First : [숫자맞추기게임](https://github.com/MaseKor/Aperture2016/blob/master/과제답안/숙제%201일차%20답안.py)
+* 	Second : [사칙연산 계산기]
