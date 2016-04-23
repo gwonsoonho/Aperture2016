@@ -8,9 +8,13 @@
 
 **연구동아리장** : 최명원
 
-**파이썬자료업로드** : 김민성
+**파이썬 자료 업로드** : 김민성
 
 ##Python study file list
 * 1일차 : [간단한 출력문, 숫자형, 리스트](https://github.com/MaseKor/Aperture2016/blob/master/교육자료/1일차.md)
 * 2일차 : [튜플](https://github.com/MaseKor/Aperture2016/blob/master/교육자료/2일차.md)
 * 3일차 : [함수](https://github.com/MaseKor/Aperture2016/blob/master/교육자료/3일차.md)
+
+##Python Assignment Answer file
+
+*	First :
