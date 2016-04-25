@@ -1,6 +1,6 @@
 # Aperture2016
 
-<img src="http://cdn.shopify.com/s/files/1/0080/8372/products/tattly_jason_santa_maria_aperture_web_design_01_grande.jpg?v=1444337564" width="150" height="150">
+<img src="http://cdn.shopify.com/s/files/1/0080/8372/products/tattly_jason_santa_maria_aperture_web_design_01_grande.jpg?v=1444337564" width="300" height="300">
 
 **Website** : [APERTURE IN DIMIGO](http://aperturecs.com)
 
