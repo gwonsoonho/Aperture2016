@@ -17,7 +17,7 @@
 * 2주차 : [튜플](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/2일차.md)
 * 3주차 : [함수](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/3일차.md)
 * 4주차 : [모듈](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/4일차.md)
-* 5주차 : [과제](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/5주차.md) <- 수정중
+* 5주차 : [과제](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/5주차.md) 
 * 6주차 : [정규표현식]() <- NULL
 * 7주차 : [클래스]() <- NULL
 * 8주차 : [파일입출력]() <- NULL
