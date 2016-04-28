@@ -14,7 +14,7 @@
 
 ##Python study file list
 * 1주차 : [간단한 출력문, 숫자형, 리스트](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/1일차.md)
-* 2주차 : [튜플](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/2일차.md)
+* 2주차 : [자료구조](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/2일차.md)<- 수정 예정
 * 3주차 : [함수](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/3일차.md)
 * 4주차 : [모듈](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/4일차.md)
 * 5주차 : [과제](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/5주차.md) 
