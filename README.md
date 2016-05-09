@@ -12,19 +12,28 @@
 
 **웹자료 업로드** : 김무열
 
-##Python study file list
+##Python First study file list
 * 1주차 : [간단한 출력문, 숫자형, 리스트](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/1일차.md)
-* 2주차 : [자료구조](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/2일차.md)<- 수정 예정
+* 2주차 : [자료구조](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/2일차.md)
 * 3주차 : [함수](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/3일차.md)
 * 4주차 : [모듈](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/4일차.md)
 * 5주차 : [과제](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/5주차.md) 
-* 6주차 : [정규표현식]() <- NULL
+* 6주차 : [과제2]() <- NULL
 * 7주차 : [클래스]() <- NULL
 * 8주차 : [파일입출력]() <- NULL
 * 9주차 : [JSON]() <- NULL
 * 10주차 : [끝내며..]() <-NULL
 
-
+##Python Second stuty file list
+* 1주차 : bs4활용해보기
+* 2주차 : Flask이론및 간단실습
+* 3주차 : Template
+* 4주차 : 웹 형태
+* 5주차 : Database 
+* 6주차 : 유저 로그인
+* 7주차 : 프로필 페이지
+* 8주차 : 유닛 
+* 9주차 : 이메일
 ##Python Assignment Answer file
 
 *	First : [숫자맞추기게임](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Assignment%20Answer/숙제%201일차%20답안.py)
