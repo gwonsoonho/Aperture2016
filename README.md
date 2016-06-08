@@ -20,24 +20,10 @@
 * 5주차 : [과제](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/5주차.md) 
 * 6주차 : [과제2](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/6주차.md)
 * 7주차  : [BeautifulSoup](ttps://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/7주차.md)
-* 8주차 : [클래스]() <- NULL
-* 9주차	:	[re]()
+* 8주차 : [pythonic code]() <- NULL
 
 ## Web Study
 
-##Python Second stuty file list
-아직 모르겠음
-
----
-* 1주차 : bs4활용해보기
-* 2주차 : Flask이론및 간단실습
-* 3주차 : Template
-* 4주차 : 웹 형태
-* 5주차 : Database 
-* 6주차 : 유저 로그인
-* 7주차 : 프로필 페이지
-* 8주차 : 유닛 
-* 9주차 : 이메일
 ##Python Assignment Answer file
 
 *	First : [숫자맞추기게임](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Assignment%20Answer/숙제%201일차%20답안.py)
