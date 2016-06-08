@@ -1,16 +1,12 @@
-#!/usr/bin/python
 #-*-coding: utf-8 -*-
 import MySQLdb as mdb
 import sys
 
 try:
     con = mdb.connect('localhost', 'testuser', 'test623', 'testdb');
-
     cur = con.cursor()
     cur.execute("SELECT VERSION()")
-
     ver = cur.fetchone()
-
     print "Database version : %s" % ver
 
 except mdb.Error, e:
