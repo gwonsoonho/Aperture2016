@@ -19,8 +19,8 @@
 * 4주차 : [모듈](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/4일차.md)
 * 5주차 : [과제](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/5주차.md) 
 * 6주차 : [과제2](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/6주차.md)
-* 7주차  : [BeautifulSoup](ttps://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/7주차.md)
-* 8주차 : [pythonic code]() <- NULL
+* 7주차  : [BeautifulSoup](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/7주차.md)
+* 8주차 : [pythonic code](https://github.com/MaseKor/Aperture2016/blob/master/Python%20Study%20File/8%EC%A3%BC%EC%B0%A8.md) 
 
 ## Web Study
 
